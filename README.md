@@ -4,7 +4,7 @@ O banco foi desenvolvido em java com Swing, que é um widget toolkit GUI para us
 A aplicação foi desenvolvida com o intuito de praticar os pilares da Orienatação a Objeto, arquitetura mvc (model, view e controller), e acesso a banco de dados com java.
 
 <h4><li>Technologies Used</li></h4>
-    java<br>
+    java 11<br>
     Swing<br>
     Mysql<br>
     

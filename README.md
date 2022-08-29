@@ -1,10 +1,8 @@
 # banco-poo-swing
 
-
-# Banco Local
-
-O banco foi desenvolvido em java com Swinng que é um widget toolkit GUI para uso com o Java, na parte do banco de dados, minha escolha foi o mysql.
+O banco foi desenvolvido em java com Swing, que é um widget toolkit GUI para uso com o Java, o banco de dados escolhido foi o mysql.
 A aplicação foi desenvolvida com o intuito de praticar os pilares da Orienatação a Objeto, arquitetura mvc (model, view e controller), e acesso a banco de dados com java.
+
 <h4><li>Technologies Used</li></h4>
     java<br>
     Swing<br>

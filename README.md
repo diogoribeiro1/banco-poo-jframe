@@ -1,7 +1,7 @@
 # banco-poo-swing
 
 O banco foi desenvolvido em java com Swing, que é um widget toolkit GUI para uso com o Java, o banco de dados escolhido foi o mysql.
-A aplicação foi desenvolvida com o intuito de praticar os pilares da Orienatação a Objeto, arquitetura mvc (model, view e controller), e acesso a banco de dados com java.
+A aplicação foi desenvolvida com o intuito de praticar os pilares da Orienatação a Objeto, arquitetura mvc (model, view e controller), e acesso a banco de dados com java. O banco realiza deposito, saque, transferencia, extrato, cadastro de conta corrente, conta poupanca, cadastro de clientes e cadastro de gerentes. 
 
 <h4><li>Technologies Used</li></h4>
     java 11<br>
